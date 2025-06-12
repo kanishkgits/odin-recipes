@@ -1,0 +1,18 @@
+body{
+    background-color: #F2C078;
+}
+.heading{
+    display: block;
+    background-color: #FE5D26;
+    text-align: center;
+    color: #FAEDCA;
+    padding: 20px;
+    margin-bottom: 200px;
+}
+li{
+    display: inline;
+    list-style-type: none;
+    background-color: #C1DBB3;
+    margin: 150px;
+    padding: 120px;
+}

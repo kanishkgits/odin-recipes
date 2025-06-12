@@ -1,0 +1,25 @@
+body{
+    background-color: #F2C078;
+}
+.heading{
+    display: block;
+    background-color: #FE5D26;
+    text-align: center;
+    color: #FAEDCA;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    text-align: center;
+}
+a{
+    background-color: #FE5D26;
+    padding:20px 40px;
+    margin: 20px auto;
+    border-radius: 5%;
+}
